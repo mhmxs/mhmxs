@@ -16,6 +16,9 @@ Introducing myself in a few sentences is almost impossible, because I'm a father
 ## Ops 🔭
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
+## Story of me
+⚡[My journey at IT space](https://dev.to/mhmxs/my-journey-at-it-space-2p9a)
+
 <!--
 **mhmxs/mhmxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
