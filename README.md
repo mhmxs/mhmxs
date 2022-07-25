@@ -25,8 +25,9 @@ Introducing myself in a few sentences is almost impossible because I'm a father,
 ## Story of mine
 ⚡[My journey at IT space](https://dev.to/mhmxs/my-journey-at-it-space-2p9a)
 
-| :---: |
-| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmxs&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
+### Some stats
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmxs&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mhmxs/mhmxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
