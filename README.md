@@ -17,13 +17,16 @@ Introducing myself in a few sentences is almost impossible because I'm a father,
 
 ## Dev ⚡
 
-<img src="https://img.shields.io/badge/Golang-7fd5ea?style=for-the-badge&logo=go&logoColor=darkgreen" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=shell&logoColor=white" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmxs&langs_count=4&hide=verilog,html,css,php,smarty&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Ops 🔭
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 ## Story of mine
 ⚡[My journey at IT space](https://dev.to/mhmxs/my-journey-at-it-space-2p9a)
+
+| :---: |
+| [![GitHub stats](https://github-readme-stats.vercel.app/api?username=mhmxs&theme=merko)](https://github.com/anuraghazra/github-readme-stats) |
 
 <!--
 **mhmxs/mhmxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
