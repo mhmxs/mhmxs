@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Introducing myself in a few sentences is almost impossible because I'm a father, a lover, a cyberpunk psy[trance] nerd, an anime fan, a race driver, and a hockey player. And lastly but not least I'm an automation freak cloud expert software developer, who is infatuated with open source, community-driven development. Currently, I'm a Kubernetes integration engineer at StorageOS with many years of DevOps background. My main focuses are Kubernetes operators and Go micro-services from design to rollout. I'm interested in #OSS programming, distributed computing, eBPF, virtualization, container orchestration, and many more...
+Introducing myself in a few sentences is almost impossible because I'm a father, a lover, a cyberpunk psy[trance] nerd, an anime fan, a race driver, and a hockey player. And lastly but not least I'm an automation freak cloud expert software developer, who is infatuated with open source, community-driven development. Currently, I'm a Chief Technical Officer at inspirNation with many years of DevOps background. My main focuses are Kubernetes operators and Go micro-services from design to rollout. I'm interested in #OSS programming, distributed computing, eBPF, virtualization, container orchestration, and many more...
 
 <a href="https://www.linkedin.com/in/mhmxs">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
